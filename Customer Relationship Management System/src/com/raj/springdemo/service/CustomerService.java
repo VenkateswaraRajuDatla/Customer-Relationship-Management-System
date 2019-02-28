@@ -2,7 +2,7 @@ package com.raj.springdemo.service;
 
 import java.util.List;
 
-import com.luv2code.springdemo.entity.Customer;
+import com.raj.springdemo.entity.Customer;
 
 public interface CustomerService {
 
